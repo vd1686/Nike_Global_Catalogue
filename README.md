@@ -12,6 +12,7 @@ An end-to-end data analytics project that transforms raw, web-scraped global e-c
 *   `Nike_Global_Catalogue.ipynb` — Google Colab notebook containing EDA & processing code.
 *   `Nike_Global_Catalogue.pbit` — Polished Power BI Dashboard template file.
 *   `README.md` — Technical project documentation.
+*   `nike_logo.jpg` — Logo Image for Dashboard.
 
 ---
 
